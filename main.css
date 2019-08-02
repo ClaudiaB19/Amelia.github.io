@@ -1,0 +1,123 @@
+h1 {
+   color: black;
+   font-family:copper-black;
+}
+
+.header {
+    color: purple;
+}
+ #Games {
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKm5yO_RAFaONmAnEfnWm2k-s2sT6K1bHWCRaoZIUjnblXrFO");
+   background-size: cover;
+ }
+ 
+ #a{
+	 color:red; 
+ }
+ 
+
+#FortImg {
+	position: relative;
+	top: -20px;
+	left: 600px;
+}
+
+#Mine {
+	position: relative;
+	top: -20px;
+	left: 600px;
+}
+
+#Sims {
+	position: relative;
+	top: -20px;
+	left: 400px
+}
+
+.robins a{
+	position: relative;
+	cursor: pointer;
+	margin:1600px;
+	padding: 5px;
+}
+
+.robins a:active{
+	top: 2px;
+}
+
+.jumbotron {
+	display: flex;
+	align-items: center;
+    background-image: url("https://images.playerslounge.co/img/homepage/step-2.png");
+	background-size: middle;
+    color: #ffffff;
+    height: 500px;
+}	
+
+.jumbotron h2 {
+	font-size: 50px;
+	font-weight: 600;
+	margin: 0;
+	color: grey;
+}
+
+.jumbotron h3 {
+	margin: 0 0 20px;
+	color: grey; 
+}
+
+footer li img {
+	width: 30px;
+	height: 32px;
+}
+
+#lowb {
+	position: relative;
+	top: 50px;
+	left: -350px;
+}
+
+#fai {
+	position: relative;
+	top: -33px;
+	left: 485px;
+	
+}
+
+#roai {
+	position: relative;
+	top: -43px;
+	left: 285px;
+}
+
+#sai {
+	position: relative;
+	top: -43px;
+	left: 685px;
+}
+	
+#mineai {
+	position: relative;
+	top: -20px;
+	left: 700px;
+}
+
+#wg {
+	position: relative;
+	top: 20px;
+	left: -350px;
+}
+
+footer {
+   font-size: 12px;
+   padding: 20px 0;
+}
+
+footer .col-sm-8 {
+	display: flex;
+	justify-content: flex-end;
+}
+
+footer ul {
+	list-style: none;
+}
